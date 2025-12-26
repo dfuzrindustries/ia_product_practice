@@ -172,7 +172,7 @@ Contact the Product Practice team for tracker access and training.
 
 ---
 
-[← Back to Workflows & Impact](workflows-impact.md) | [Homepage →](#)
+[← Back to Workflows & Impact](workflows-impact.md) | [Homepage →](index.md)
 
 ---
 

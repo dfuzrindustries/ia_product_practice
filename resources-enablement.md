@@ -49,7 +49,7 @@ What we learn benefits everyone in the practice.
 
 ---
 
-[← Back to Homepage](#)
+[← Back to Homepage](index.md)
 
 ---
 

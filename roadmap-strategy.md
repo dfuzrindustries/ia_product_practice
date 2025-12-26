@@ -46,7 +46,7 @@ We balance quick wins with strategic bets, near-term revenue with long-term plat
 
 ---
 
-[← Back to Homepage](#)
+[← Back to Homepage](index.md)
 
 ---
 

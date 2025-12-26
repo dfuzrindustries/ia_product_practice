@@ -88,7 +88,7 @@ Workflows are added to this tracker when:
 - **Program:** Pilot validated, full-scale deployment and transfer complete
 - **Partnership:** Strategic relationship established with ongoing pipeline
 
-For workflow intake process, see [Operating Model → Intake](#).
+For workflow intake process, see [Operating Model → Intake](intake.md).
 
 ---
 

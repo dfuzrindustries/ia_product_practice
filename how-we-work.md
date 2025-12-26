@@ -130,7 +130,7 @@ Workflow design considers organizational context, technical dependencies, and op
 
 ---
 
-[← Back to Philosophy & Principles](#) | [Next: IntelligentOS Architecture →](#)
+[← Back to Philosophy & Principles](philosophy-principles.md) | [Next: IntelligentOS Architecture →](intelligentos-architecture.md)
 
 ---
 

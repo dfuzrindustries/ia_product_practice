@@ -72,7 +72,7 @@ We build for:
 
 ---
 
-[← Back to Philosophy & Principles](#) | [Next: How We Work →](#)
+[← Back to Philosophy & Principles](philosophy-principles.md) | [Next: How We Work →](how-we-work.md)
 
 ---
 

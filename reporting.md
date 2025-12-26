@@ -335,7 +335,7 @@ Submit suggestions for reporting improvements to the Product Practice Lead.
 
 ---
 
-[← Back to Measurement & KPIs](measurement-kpis.md) | [Homepage →](#)
+[← Back to Measurement & KPIs](measurement-kpis.md) | [Homepage →](index.md)
 
 ---
 

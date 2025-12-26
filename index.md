@@ -29,22 +29,22 @@ We design, prove, and scale AI-enabled processes that deliver measurable economi
 ## Quick Navigation
 
 ### For Executive Leadership
-- [North Star Dashboard](#) — Real-time view of economic impact
-- [Strategic Roadmap](#) — 6-12 month priorities and investment decisions
-- [Workflow Portfolio](#) — Active workflows and their maturity stage
-- [Product Principles](#) — Foundation guiding all product decisions
+- [Economic Impact Dashboard](economic-impact.md) — Real-time view of economic impact
+- [Product Roadmap](roadmap.md) — 6-12 month priorities and investment decisions
+- [Active Workflows](active-workflows.md) — Active workflows and their maturity stage
+- [Product Principles](product-principles.md) — Foundation guiding all product decisions
 
 ### For Product Working Group
-- [Operating Model](#) — How we deliver (POV → POC → Pilot → Program)
-- [Active Workflows](#) — Current implementations and status
-- [Governance Framework](#) — Built-in controls and approvals
-- [Sales Enablement](#) — External link to sales resources
+- [How We Work](how-we-work.md) — How we deliver (POV → POC → Pilot → Program → Partnership)
+- [Active Workflows](active-workflows.md) — Current implementations and status
+- [Governance Framework](governance.md) — Built-in controls and approvals
+- [Sales Enablement](external-links.md) — External link to sales resources
 
 ### For Product Practice Team
-- [Product Principles](#) — The 10 principles guiding our work
-- [Measurement Framework](#) — How we track and prove impact
-- [Workflow Development Guide](#) — Building new workflows
-- [Onboarding](#) — Getting started on the product team
+- [Product Principles](product-principles.md) — The 10 principles guiding our work
+- [Measurement Framework](measurement-framework.md) — How we track and prove impact
+- [Templates & Tools](templates-tools.md) — Building new workflows
+- [Onboarding](onboarding.md) — Getting started on the product team
 
 ---
 
@@ -53,8 +53,6 @@ We design, prove, and scale AI-enabled processes that deliver measurable economi
 **[Date]** — New workflow launched: [Workflow Name]  
 **[Date]** — Q[X] Roadmap published  
 **[Date]** — Updated measurement framework with client self-sufficiency metrics
-
-[View all updates](#)
 
 ---
 
@@ -84,13 +82,13 @@ This site is maintained by the Product Practice team and updated continuously as
 
 ## Core Resources
 
-- [Philosophy & Principles](#)
-- [Workflows & Impact](#)
-- [Measurement & KPIs](#)
-- [Operating Model](#)
-- [Roadmap & Strategy](#)
-- [External: Sales Enablement Site](#)
-- [External: Engagement Tools](#)
+- [Philosophy & Principles](philosophy-principles.md)
+- [Workflows & Impact](workflows-impact.md)
+- [Measurement & KPIs](measurement-kpis.md)
+- [Operating Model](operating-model.md)
+- [Roadmap & Strategy](roadmap-strategy.md)
+- [External: Sales Enablement Site](external-links.md)
+- [External: Engagement Tools](external-links.md)
 
 ---
 

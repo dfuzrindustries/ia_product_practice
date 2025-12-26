@@ -160,7 +160,7 @@ The result is a complete, transferable operating system that clients own and evo
 
 ---
 
-[← Back to Philosophy & Principles](#) | [Homepage →](#)
+[← Back to Philosophy & Principles](philosophy-principles.md) | [Homepage →](index.md)
 
 ---
 

@@ -293,7 +293,7 @@ Strategic bets are about learning, not just winning:
 
 ---
 
-[← Back to Roadmap & Strategy](roadmap-strategy.md) | [Homepage →](#)
+[← Back to Roadmap & Strategy](roadmap-strategy.md) | [Homepage →](index.md)
 
 ---
 

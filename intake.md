@@ -346,7 +346,7 @@ Intake process is reviewed quarterly based on:
 
 ---
 
-[← Back to Operating Model](operating-model.md) | [Homepage →](#)
+[← Back to Operating Model](operating-model.md) | [Homepage →](index.md)
 
 ---
 

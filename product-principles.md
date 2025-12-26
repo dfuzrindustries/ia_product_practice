@@ -77,7 +77,7 @@ These are your design criteria. Every workflow, feature, and deliverable should 
 
 ---
 
-[← Back to Philosophy & Principles](#) | [Next: Manifesto →](#)
+[← Back to Philosophy & Principles](philosophy-principles.md) | [Next: Manifesto →](manifesto.md)
 
 ---
 

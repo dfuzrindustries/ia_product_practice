@@ -398,7 +398,7 @@ Thank you for helping maintain the knowledge base that enables our Product Pract
 
 ---
 
-[← Back to Resources & Enablement](resources-enablement.md) | [Homepage →](#)
+[← Back to Resources & Enablement](resources-enablement.md) | [Homepage →](index.md)
 
 ---
 

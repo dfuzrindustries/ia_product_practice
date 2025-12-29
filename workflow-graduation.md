@@ -19,3 +19,11 @@
 - Client ownership established
 
 Workflows that fail graduation criteria are paused or retired.
+
+---
+
+## See also
+
+- [Intelligent OS — Workflow-Centric Roadmap](roadmap.md)
+- [Active Workflows](workflows/active-workflows.md)
+- [Measurement & KPIs](measurement/kpis.md)

@@ -1,122 +1,111 @@
-# Intelligent OS — Workflow-Centric Product Roadmap (Living Document)
+# Intelligent OS — Workflow-Centric Product Roadmap (Populated)
 
 ## Purpose
-This roadmap is the source of truth for Intelligent OS product development.
-It is workflow-centric, outcome-driven, and explicitly tied to economic impact.
+This roadmap represents the prioritized set of workflows Intelligent Agency is designing, proving, and scaling through Intelligent OS.
+Workflows are the unit of value. Economic impact is the measure of success.
 
-The roadmap is reviewed and updated continuously as workflows move through POV, POC, Pilot, and Program phases.
-
----
-
-## How to Use This Roadmap
-
-- **Primary unit of value:** Workflows (not features)
-- **Primary success measure:** Verified economic impact
-- **Primary progression:** Confidence and maturity, not output volume
-- **Primary question:** Which workflows are automated, and what value do they deliver?
-
-Every row in this roadmap must be measurable, owned, and economically justified.
+North Star: **Number of workflows automated with verified dollars saved or earned**
 
 ---
 
-## North Star Alignment
+## Near Term (0–90 Days) — Prove & Package
 
-**North Star Metric**
-- Number of workflows automated with verified dollars saved or earned
-
-Each roadmap item must explicitly support this metric.
-
----
-
-## Roadmap Template
-
-### Near Term (0–90 Days) — Prove & Package
-
-| Time Horizon | Workflow | Use Case (Client / IA) | Phase (POV / POC / Pilot / Program) | Process Outcome | AI / Agent Role | Economic Impact Hypothesis | KPIs | Maturity Lift |
-|-------------|----------|------------------------|-------------------------------------|-----------------|-----------------|----------------------------|------|---------------|
-|             |          |                        |                                     |                 |                 |                            |      |               |
-|             |          |                        |                                     |                 |                 |                            |      |               |
+| Workflow | Use Case | Phase | Process Outcome | Intelligent OS Layer | Economic Impact | KPIs | Maturity Lift |
+|---------|----------|-------|-----------------|----------------------|-----------------|------|---------------|
+| Product Discovery Intake → Prioritization | IA + Clients | POV | Faster, repeatable opportunity selection | Workflow + Intelligence | ↓ Discovery time, ↑ win quality | Time-to-POV, Win Rate | L1 → L2 |
+| KPI Definition & Exec Reporting | IA Internal | POC | Standardized, automated reporting | Intelligence + Orchestration | ↓ Manual reporting hours | Hours saved, Exec cadence | L2 |
+| Workflow ROI Tracking | IA + Clients | POC | Measured impact per workflow | Intelligence Layer | Verified $ impact | $ saved / earned | L2 |
 
 ---
 
-### Mid Term (3–6 Months) — Validate in Production
+## Mid Term (3–6 Months) — Validate in Production
 
-| Time Horizon | Workflow | Use Case (Client / IA) | Phase (POV / POC / Pilot / Program) | Process Outcome | AI / Agent Role | Economic Impact Hypothesis | KPIs | Maturity Lift |
-|-------------|----------|------------------------|-------------------------------------|-----------------|-----------------|----------------------------|------|---------------|
-|             |          |                        |                                     |                 |                 |                            |      |               |
-|             |          |                        |                                     |                 |                 |                            |      |               |
-
----
-
-### Long Term (6–12 Months) — Scale & Systematize
-
-| Time Horizon | Workflow | Use Case (Client / IA) | Phase (POV / POC / Pilot / Program) | Process Outcome | AI / Agent Role | Economic Impact Hypothesis | KPIs | Maturity Lift |
-|-------------|----------|------------------------|-------------------------------------|-----------------|-----------------|----------------------------|------|---------------|
-|             |          |                        |                                     |                 |                 |                            |      |               |
-|             |          |                        |                                     |                 |                 |                            |      |               |
+| Workflow | Use Case | Phase | Process Outcome | Intelligent OS Layer | Economic Impact | KPIs | Maturity Lift |
+|---------|----------|-------|-----------------|----------------------|-----------------|------|---------------|
+| Product Backlog → Delivery Planning | Client Product Teams | Pilot | Predictable delivery decisions | Workflow + Orchestration | ↓ Rework, ↑ throughput | Cycle time, On-time delivery | L3 |
+| Revenue Forecasting | Client GTM | Pilot | Improved forecast accuracy | Intelligence + Agent | ↑ Revenue predictability | Forecast variance | L3 |
+| Customer Health Scoring | Client CS | Pilot | Proactive retention actions | Agent + Intelligence | ↓ Churn | Retention, NRR | L3 |
 
 ---
 
-## Roadmap Scoring Model
+## Long Term (6–12 Months) — Scale & Systematize
 
-The scoring model is used to prioritize workflows objectively and ensure alignment with IA’s product philosophy.
-
-Each workflow is scored across five dimensions.
-
-### Scoring Dimensions (1–5 scale)
-
-1. **Economic Impact Potential**
-   - 1 = Minimal or unclear financial impact
-   - 5 = Significant, quantifiable dollars saved or earned
-
-2. **Workflow Repeatability**
-   - 1 = One-off or highly bespoke
-   - 5 = Highly repeatable across clients or functions
-
-3. **Automation Readiness**
-   - 1 = Poor data quality, unclear ownership
-   - 5 = Clear inputs, owners, and decision logic
-
-4. **Cross-Functional Leverage**
-   - 1 = Single-function impact
-   - 5 = Multi-function or system-wide impact
-
-5. **Maturity Advancement**
-   - 1 = Incremental improvement
-   - 5 = Unlocks a meaningful maturity level increase
+| Workflow | Use Case | Phase | Process Outcome | Intelligent OS Layer | Economic Impact | KPIs | Maturity Lift |
+|---------|----------|-------|-----------------|----------------------|-----------------|------|---------------|
+| Cross-Functional Planning | Client Exec Team | Program | Aligned operating cadence | CEO Synthesis Layer | Faster decisions | Decision latency | L4 |
+| Resource Allocation Optimization | Client Finance / Ops | Program | Capital deployed to highest ROI | Intelligence + Agent | ↑ ROI | ROI delta, Margin | L4 |
+| Continuous Improvement Loop | IA + Clients | Program | Self-optimizing workflows | All Layers | Sustained gains | $ per workflow | L5 |
 
 ---
 
-### Scoring Table
+## Intelligent OS Architecture Reference
 
-| Workflow | Economic Impact | Repeatability | Readiness | Cross-Functional | Maturity Lift | Total Score |
-|---------|-----------------|---------------|-----------|------------------|---------------|-------------|
-|         |                 |               |           |                  |               |             |
-
-**Total Score = Sum of all five dimensions (Max = 25)**
+- **Workflow Layer:** End-to-end processes with owners and metrics
+- **Agent Layer:** Functional AI agents executing and advising
+- **Orchestration Layer:** Human–agent coordination and governance
+- **Intelligence Layer:** KPIs, insights, and learning loops
+- **CEO Synthesis Layer:** Cross-functional visibility and decisions
 
 ---
 
-## How Scores Are Used
+## Workflow Graduation Rubric
 
-- **20–25:** Top priority — advance immediately
-- **15–19:** High priority — schedule in roadmap
-- **10–14:** Explore further — clarify value or readiness
-- **<10:** Deprioritize
+### POV → POC
+- Clear workflow definition
+- Named owner
+- Baseline established
+- Economic hypothesis defined
 
-Scores are reviewed at each roadmap review cycle.
+### POC → Pilot
+- Working prototype validated
+- Real user adoption
+- Measurable impact demonstrated
+- Governance risks understood
+
+### Pilot → Program
+- ROI validated in production
+- Adoption stable
+- Process documented (SOPs)
+- Client ownership established
+
+Workflows that do not meet graduation criteria are paused, redesigned, or retired.
+
+---
+
+## Integration with Success Model KPIs
+
+### Financial
+- Revenue Growth Rate
+- Gross Margin
+- ROI per workflow
+
+### Operational
+- Automation hours saved
+- On-time delivery
+- Cycle time reduction
+
+### Customer
+- Retention rate
+- Net Revenue Retention
+- NPS (workflow cohorts)
+
+### Brand & Culture (Internal)
+- Adoption rate
+- Internal productivity lift
+
+Each workflow must explicitly support at least one Success Model KPI.
 
 ---
 
 ## Governance
 
-- Every workflow has a named owner
-- Every workflow has defined KPIs
-- Every workflow must report economic impact post-implementation
-- Workflows that do not demonstrate impact are removed or redesigned
+- Each workflow has a Product Owner
+- Each workflow reports impact monthly
+- Scores are recalculated quarterly
+- Roadmap reviewed in Product + CEO cadence
 
 ---
 
 ## Guiding Principle
 
-> If a workflow cannot demonstrate measurable economic impact, it does not belong on the roadmap.
+> Workflows graduate only when they produce verified economic impact and can be operated independently.

@@ -1,3 +1,7 @@
+[Home](index.md) / [Enablement](onboarding.md) / Resources & Enablement
+
+---
+
 # Resources & Enablement
 
 Tools, templates, and resources to support the Product Practice and enable consistent execution across teams.

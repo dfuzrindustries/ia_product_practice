@@ -1,3 +1,7 @@
+[Home](index.md) / [Enablement](onboarding.md) / Templates & Tools
+
+---
+
 # Templates & Tools
 
 Standard templates, checklists, and tools for workflow development and delivery. These resources ensure consistency and quality across all Product Practice work.

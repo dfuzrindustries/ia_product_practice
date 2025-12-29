@@ -1,3 +1,7 @@
+[Home](index.md) / [General](index.md) / How We Work — Phase-Gated Delivery
+
+---
+
 # How We Work — Phase-Gated Delivery
 
 Intelligent Agency's Product Practice delivers AI-enabled workflows through a disciplined, evidence-based approach. Each phase proves value and builds confidence before advancing to the next.

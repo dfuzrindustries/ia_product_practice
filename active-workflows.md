@@ -1,3 +1,7 @@
+[Home](index.md) / [Workflows](active-workflows.md) / Active Workflows
+
+---
+
 # Active Workflows
 
 Current workflows organized by phase in the customer lifecycle. Each workflow is tracked from initial Point of View through Partnership.
@@ -99,3 +103,24 @@ For workflow intake process, see [Operating Model → Intake](intake.md).
 **Version:** 1.0  
 **Last Updated:** December 2025  
 **© 2025 Intelligent Agency. All Rights Reserved.**
+
+---
+
+## Intelligent OS Alignment
+
+- **OS Layers:** Workflow, Agent, Intelligence  
+  → [Intelligent OS Architecture](intelligentos-architecture.md)
+- **Primary KPIs:** Workflows automated, $ saved, $ earned  
+  → [KPIs](measurement-kpis.md)
+- **Maturity Impact:** Varies by workflow  
+  → [Scorecard](scorecard.md)
+
+---
+
+## See also
+
+- [Workflow Lifecycle Tracker](workflow-tracker.md)
+- [Intelligent OS — Workflow-Centric Roadmap](roadmap.md)
+- [Workflow Graduation Rubric](workflow-graduation.md)
+- [Measurement & KPIs](measurement-kpis.md)
+- [Workflows & Impact](workflows-impact.md)

@@ -1,3 +1,7 @@
+[Home](index.md) / [Measurement](measurement-kpis.md) / How We Measure Impact
+
+---
+
 # How We Measure Impact
 
 Methodology for calculating and verifying economic impact. This framework ensures consistent, conservative, and client-validated measurement across all workflows.

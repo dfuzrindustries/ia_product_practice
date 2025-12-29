@@ -1,3 +1,7 @@
+[Home](index.md) / [Enablement](onboarding.md) / Reporting Cadence & Templates
+
+---
+
 # Reporting Cadence & Templates
 
 Standard reporting rhythms and templates for different audiences. This ensures consistent communication of progress, performance, and impact across the organization.

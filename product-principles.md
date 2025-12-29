@@ -1,3 +1,7 @@
+[Home](index.md) / [Orientation](manifesto.md) / Product Principles
+
+---
+
 # Product Principles
 
 These 10 principles guide every decision, design, and delivery within Intelligent Agency's Product Practice. They define how we work, what we prioritize, and how we measure success.

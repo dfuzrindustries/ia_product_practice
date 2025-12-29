@@ -1,3 +1,7 @@
+[Home](index.md) / [Workflows](active-workflows.md) / Workflows & Impact
+
+---
+
 # Workflows & Impact
 
 This section showcases the real-world economic impact of Intelligent Agency's Product Practice. Here you'll find active workflows, verified financial results, and evidence of value delivered to clients.

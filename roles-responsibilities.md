@@ -1,3 +1,7 @@
+[Home](index.md) / [Intelligent OS](intelligentos-architecture.md) / Roles & Responsibilities
+
+---
+
 # Roles & Responsibilities
 
 RACI matrix defining accountability and coordination across the Product Practice. Clear roles eliminate ambiguity and enable effective execution.

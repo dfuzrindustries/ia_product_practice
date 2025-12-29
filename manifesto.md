@@ -1,3 +1,7 @@
+[Home](index.md) / [Orientation](manifesto.md) / Intelligent Agency — Product Practice Manifesto
+
+---
+
 # Intelligent Agency — Product Practice Manifesto
 
 ## Purpose

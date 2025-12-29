@@ -1,3 +1,7 @@
+[Home](index.md) / [Intelligent OS](intelligentos-architecture.md) / Product Practice Alignment to IntelligentOS Architecture
+
+---
+
 # Product Practice Alignment to IntelligentOS Architecture
 
 Intelligent Agency's Product Practice builds AI-enabled workflows that align to a scalable, layered operating system architecture. Each layer serves a distinct purpose and enables the layers above it.
@@ -167,3 +171,24 @@ The result is a complete, transferable operating system that clients own and evo
 **Version:** 1.0  
 **Last Updated:** December 2025  
 **© 2025 Intelligent Agency. All Rights Reserved.**
+
+---
+
+## Intelligent OS Alignment
+
+- **OS Layers:** Workflow, Agent, Orchestration, Intelligence, CEO Synthesis  
+  → [Intelligent OS Architecture](intelligentos-architecture.md)
+- **Primary KPIs:** Decision latency, Automation hours saved, NRR  
+  → [KPIs](measurement-kpis.md)
+- **Maturity Impact:** Enables Level 3–5 scaling  
+  → [Scorecard](scorecard.md)
+
+---
+
+## See also
+
+- [Intelligent OS — Workflow-Centric Roadmap](roadmap.md)
+- [Active Workflows](active-workflows.md)
+- [Measurement & KPIs](measurement-kpis.md)
+- [Operating Model](operating-model.md)
+- [Governance Framework](governance.md)

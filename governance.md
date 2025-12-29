@@ -1,3 +1,7 @@
+[Home](index.md) / [Intelligent OS](intelligentos-architecture.md) / Governance Framework
+
+---
+
 # Governance Framework
 
 How we design governance into workflows from the beginning. Controls, approvals, and compliance enable trust, reduce risk, and allow workflows to scale safely.

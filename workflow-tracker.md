@@ -1,3 +1,7 @@
+[Home](index.md) / [Workflows](active-workflows.md) / Workflow Lifecycle Tracker
+
+---
+
 # Workflow Lifecycle Tracker
 
 Visual tracking system showing each workflow's journey from POV through Partnership. Track progress, milestones, and decision points in real-time.
@@ -179,3 +183,23 @@ Contact the Product Practice team for tracker access and training.
 **Version:** 1.0  
 **Last Updated:** December 2025  
 **© 2025 Intelligent Agency. All Rights Reserved.**
+
+---
+
+## Intelligent OS Alignment
+
+- **OS Layers:** Workflow, Orchestration, Intelligence  
+  → [Intelligent OS Architecture](intelligentos-architecture.md)
+- **Primary KPIs:** Time-to-value, Adoption, ROI per workflow  
+  → [KPIs](measurement-kpis.md)
+- **Maturity Impact:** Supports progression across levels  
+  → [Scorecard](scorecard.md)
+
+---
+
+## See also
+
+- [Active Workflows](active-workflows.md)
+- [Intelligent OS — Workflow-Centric Roadmap](roadmap.md)
+- [Workflow Graduation Rubric](workflow-graduation.md)
+- [Measurement & KPIs](measurement-kpis.md)

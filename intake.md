@@ -1,3 +1,7 @@
+[Home](index.md) / [Enablement](onboarding.md) / Intake Process
+
+---
+
 # Intake Process
 
 How new opportunities enter the Product Practice pipeline. This process ensures we pursue the right workflows with the right clients at the right time.

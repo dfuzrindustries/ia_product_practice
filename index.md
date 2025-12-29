@@ -1,97 +1,66 @@
-# Intelligent Agency — Product Practice
+# Intelligent Agency Product Practice — Single Source of Truth
 
-**Our process is our product. Economic impact is the measure of success.**
+This site is the authoritative reference for how Intelligent Agency designs, builds, governs, and scales AI-enabled workflows through IntelligentOS.
 
----
+Our process is our product.  
+Our measure of success is economic impact.
 
-## North Star Metrics
-
-| Metric | Current Status |
-|--------|----------------|
-| **Workflows Automated** | [TBD] |
-| **Dollars Saved** | $[TBD] |
-| **Dollars Earned** | $[TBD] |
-
-*Last updated: [Date]*
+**North Star:** Number of workflows automated with verified dollars saved or earned.
 
 ---
 
-## What We Do
+## Navigate the System
 
-We design, prove, and scale AI-enabled processes that deliver measurable economic impact. Our product practice builds workflows that clients can own, operate, and sustain independently.
+1. **Beliefs & Principles** — how we think and decide  
+   - [Manifesto](manifesto.md)  
+   - [Philosophy & Principles](philosophy-principles.md)  
+   - [Product Principles](product-principles.md)
 
-**Our Philosophy**: Technology and AI accelerate outcomes through repeatable, governed workflows—not through one-off implementations.
+2. **IntelligentOS** — architecture and operating discipline  
+   - [IntelligentOS Architecture](intelligentos-architecture.md)  
+   - [Operating Model](operating-model.md)  
+   - [Governance](governance.md)  
+   - [Roles & Responsibilities](roles-responsibilities.md)
 
-**Our Measure**: Verified financial impact from sustained, client-owned workflows.
+3. **Workflows** — the product surface area  
+   - [Active Workflows](active-workflows.md)  
+   - [Workflow Tracker](workflow-tracker.md)  
+   - [Workflow Impact](workflows-impact.md)  
+   - [Capability Transfer](capability-transfer.md)
 
----
+4. **Roadmap & Prioritization** — what we build next and why  
+   - [Workflow-Centric Roadmap](roadmap.md)  
+   - [Workflow Graduation Rubric](workflow-graduation.md)  
+   - [Roadmap Strategy](roadmap-strategy.md)  
+   - [Current Priorities](current-priorities.md)  
+   - [Strategic Bets](strategic-bets.md)
 
-## Quick Navigation
+5. **Measurement & Economics** — proof of value  
+   - [Measurement Framework](measurement-framework.md)  
+   - [KPIs](measurement-kpis.md)  
+   - [Scorecard](scorecard.md)  
+   - [Economic Impact](economic-impact.md)
 
-### For Executive Leadership
-- [Economic Impact Dashboard](economic-impact.md) — Real-time view of economic impact
-- [Product Roadmap](roadmap.md) — 6-12 month priorities and investment decisions
-- [Active Workflows](active-workflows.md) — Active workflows and their maturity stage
-- [Product Principles](product-principles.md) — Foundation guiding all product decisions
+6. **Enablement** — templates, onboarding, and reporting  
+   - [Intake](intake.md)  
+   - [Onboarding](onboarding.md)  
+   - [Reporting](reporting.md)  
+   - [Resources & Enablement](resources-enablement.md)  
+   - [Templates & Tools](templates-tools.md)
 
-### For Product Working Group
-- [How We Work](how-we-work.md) — How we deliver (POV → POC → Pilot → Program → Partnership)
-- [Active Workflows](active-workflows.md) — Current implementations and status
-- [Governance Framework](governance.md) — Built-in controls and approvals
-- [Sales Enablement](external-links.md) — External link to sales resources
-
-### For Product Practice Team
-- [Product Principles](product-principles.md) — The 10 principles guiding our work
-- [Measurement Framework](measurement-framework.md) — How we track and prove impact
-- [Templates & Tools](templates-tools.md) — Building new workflows
-- [Onboarding](onboarding.md) — Getting started on the product team
-
----
-
-## Recent Updates
-
-**[Date]** — New workflow launched: [Workflow Name]  
-**[Date]** — Q[X] Roadmap published  
-**[Date]** — Updated measurement framework with client self-sufficiency metrics
-
----
-
-## Our Approach
-
-We deliver through a **phase-gated model** that proves value before scaling:
-
-1. **POV** (Point of View) — Diagnostic workshop identifying high-value opportunities
-2. **POC** (Proof of Concept) — Demonstrate technical feasibility
-3. **Pilot** — Prove workflow in production with real users
-4. **Program** — Transfer capability and scale with client ownership
-5. **Partnership** — Ongoing collaboration for sustained transformation
-
-Every phase includes embedded measurement, governance design, and capability transfer planning.
+7. **Evidence & Community**  
+   - [Case Studies](case-studies.md)  
+   - [Contributing](contributing.md)  
+   - [External Links](external-links.md)
 
 ---
 
-## Contributing to This Site
+## How to Use This Site
 
-This site is maintained by the Product Practice team and updated continuously as our work evolves.
-
-See [Contributing Guide](contributing.md) for how to update and improve this documentation.
-
----
-
-## Core Resources
-
-- [Philosophy & Principles](philosophy-principles.md)
-- [Workflows & Impact](workflows-impact.md)
-- [Measurement & KPIs](measurement-kpis.md)
-- [Operating Model](operating-model.md)
-- [Roadmap & Strategy](roadmap-strategy.md)
-- [Resources & Enablement](resources-enablement.md)
-- [External: Sales Enablement Site](external-links.md)
-- [External: Engagement Tools](external-links.md)
-
----
-
-*This site exists to align leadership, operators, and builders around one shared belief: our process is our product, and economic impact is the measure of success.*
+- **New readers:** Start here, then follow the navigation top-to-bottom.
+- **Product & Delivery:** Use Roadmap, Active Workflows, Tracker, and KPIs.
+- **Leadership:** Review Roadmap, Scorecard, and Economic Impact.
+- **Clients:** Reference workflows, outcomes, and maturity progression.
 
 ---
 

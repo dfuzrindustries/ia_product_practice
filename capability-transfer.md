@@ -1,3 +1,7 @@
+[Home](index.md) / [Workflows](active-workflows.md) / Capability Transfer Playbook
+
+---
+
 # Capability Transfer Playbook
 
 How we transfer workflow ownership to clients, ensuring sustainability and independence. Our work is complete when clients can operate, troubleshoot, and improve workflows on their own.

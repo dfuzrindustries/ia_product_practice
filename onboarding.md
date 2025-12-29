@@ -1,3 +1,7 @@
+[Home](index.md) / [Enablement](onboarding.md) / Onboarding Guide
+
+---
+
 # Onboarding Guide
 
 How new team members get started in the Product Practice. This guide accelerates your path to productivity and impact.

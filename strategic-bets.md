@@ -1,3 +1,7 @@
+[Home](index.md) / [Roadmap](roadmap.md) / Strategic Bets & Hypotheses
+
+---
+
 # Strategic Bets & Hypotheses
 
 Where we're placing bets for future growth. These are emerging opportunities, market hypotheses, and innovation areas that could shape the Product Practice's evolution.

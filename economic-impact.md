@@ -1,3 +1,7 @@
+[Home](index.md) / [Measurement](measurement-kpis.md) / Economic Impact Dashboard
+
+---
+
 # Economic Impact Dashboard
 
 Real-time view of economic value delivered through AI-enabled workflows. This dashboard tracks our North Star metrics and supporting performance indicators.
@@ -151,3 +155,12 @@ All calculations use conservative assumptions and client-validated data.
 **Version:** 1.0  
 **Last Updated:** December 2025  
 **© 2025 Intelligent Agency. All Rights Reserved.**
+
+---
+
+## See also
+
+- [Measurement & KPIs](measurement-kpis.md)
+- [Product Practice Scorecard](scorecard.md)
+- [Workflows & Impact](workflows-impact.md)
+- [Intelligent OS — Workflow-Centric Roadmap](roadmap.md)

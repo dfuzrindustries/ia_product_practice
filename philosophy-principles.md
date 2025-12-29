@@ -1,3 +1,7 @@
+[Home](index.md) / [Orientation](manifesto.md) / Philosophy & Principles
+
+---
+
 # Philosophy & Principles
 
 This section defines the foundation of Intelligent Agency's Product Practice: our purpose, our principles, our methods, and our architecture.

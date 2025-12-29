@@ -1,3 +1,7 @@
+[Home](index.md) / [Intelligent OS](intelligentos-architecture.md) / Operating Model
+
+---
+
 # Operating Model
 
 This section defines how the Product Practice operates day-to-day. From intake and governance to roles and capability transfer, these frameworks ensure consistent, disciplined execution.

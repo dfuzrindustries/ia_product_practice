@@ -1,3 +1,7 @@
+[Home](index.md) / [Roadmap](roadmap.md) / Roadmap & Strategy
+
+---
+
 # Roadmap & Strategy
 
 This section outlines where the Product Practice is heading. From current quarter priorities to strategic bets, this is our forward-looking view of how we'll evolve and scale.

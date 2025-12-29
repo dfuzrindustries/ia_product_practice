@@ -1,3 +1,7 @@
+[Home](index.md) / [Evidence](case-studies.md) / Case Studies & Proof Points
+
+---
+
 # Case Studies & Proof Points
 
 Success stories and verified results from completed workflows. Each case study demonstrates sustainable economic impact and validates our approach.

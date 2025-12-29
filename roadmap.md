@@ -1,16 +1,14 @@
-# Intelligent OS — Workflow-Centric Product Roadmap (Populated)
+# Product Roadmap
 
-## Purpose
-This roadmap represents the prioritized set of workflows Intelligent Agency is designing, proving, and scaling through Intelligent OS.
-Workflows are the unit of value. Economic impact is the measure of success.
+This roadmap represents the prioritized set of workflows Intelligent Agency is designing, proving, and scaling through IntelligentOS. Workflows are the unit of value. Economic impact is the measure of success.
 
-North Star: **Number of workflows automated with verified dollars saved or earned**
+**North Star:** Number of workflows automated with verified dollars saved or earned
 
 ---
 
 ## Near Term (0–90 Days) — Prove & Package
 
-| Workflow | Use Case | Phase | Process Outcome | Intelligent OS Layer | Economic Impact | KPIs | Maturity Lift |
+| Workflow | Use Case | Phase | Process Outcome | IntelligentOS Layer | Economic Impact | KPIs | Maturity Lift |
 |---------|----------|-------|-----------------|----------------------|-----------------|------|---------------|
 | Product Discovery Intake → Prioritization | IA + Clients | POV | Faster, repeatable opportunity selection | Workflow + Intelligence | ↓ Discovery time, ↑ win quality | Time-to-POV, Win Rate | L1 → L2 |
 | KPI Definition & Exec Reporting | IA Internal | POC | Standardized, automated reporting | Intelligence + Orchestration | ↓ Manual reporting hours | Hours saved, Exec cadence | L2 |
@@ -20,7 +18,7 @@ North Star: **Number of workflows automated with verified dollars saved or earne
 
 ## Mid Term (3–6 Months) — Validate in Production
 
-| Workflow | Use Case | Phase | Process Outcome | Intelligent OS Layer | Economic Impact | KPIs | Maturity Lift |
+| Workflow | Use Case | Phase | Process Outcome | IntelligentOS Layer | Economic Impact | KPIs | Maturity Lift |
 |---------|----------|-------|-----------------|----------------------|-----------------|------|---------------|
 | Product Backlog → Delivery Planning | Client Product Teams | Pilot | Predictable delivery decisions | Workflow + Orchestration | ↓ Rework, ↑ throughput | Cycle time, On-time delivery | L3 |
 | Revenue Forecasting | Client GTM | Pilot | Improved forecast accuracy | Intelligence + Agent | ↑ Revenue predictability | Forecast variance | L3 |
@@ -30,7 +28,7 @@ North Star: **Number of workflows automated with verified dollars saved or earne
 
 ## Long Term (6–12 Months) — Scale & Systematize
 
-| Workflow | Use Case | Phase | Process Outcome | Intelligent OS Layer | Economic Impact | KPIs | Maturity Lift |
+| Workflow | Use Case | Phase | Process Outcome | IntelligentOS Layer | Economic Impact | KPIs | Maturity Lift |
 |---------|----------|-------|-----------------|----------------------|-----------------|------|---------------|
 | Cross-Functional Planning | Client Exec Team | Program | Aligned operating cadence | CEO Synthesis Layer | Faster decisions | Decision latency | L4 |
 | Resource Allocation Optimization | Client Finance / Ops | Program | Capital deployed to highest ROI | Intelligence + Agent | ↑ ROI | ROI delta, Margin | L4 |
@@ -38,7 +36,7 @@ North Star: **Number of workflows automated with verified dollars saved or earne
 
 ---
 
-## Intelligent OS Architecture Reference
+## IntelligentOS Architecture Reference
 
 - **Workflow Layer:** End-to-end processes with owners and metrics
 - **Agent Layer:** Functional AI agents executing and advising
@@ -93,7 +91,7 @@ Workflows that do not meet graduation criteria are paused, redesigned, or retire
 - Adoption rate
 - Internal productivity lift
 
-Each workflow must explicitly support at least one Success Model KPI.
+Each workflow supports at least one Success Model KPI.
 
 ---
 
@@ -108,4 +106,14 @@ Each workflow must explicitly support at least one Success Model KPI.
 
 ## Guiding Principle
 
-> Workflows graduate only when they produce verified economic impact and can be operated independently.
+Workflows graduate only when they produce verified economic impact and can be operated independently.
+
+---
+
+[← Back to Roadmap & Strategy](roadmap-strategy.md) | [Next: Strategic Bets →](strategic-bets.md)
+
+---
+
+**Version:** 1.0  
+**Last Updated:** December 2025  
+**© 2025 Intelligent Agency. All Rights Reserved.**

@@ -33,277 +33,124 @@ Standard reporting rhythms and templates for different audiences. This ensures c
 
 ## Reporting Templates
 
-### Monthly Performance Dashboard
+### Quick Reference
 
-**I. North Star Metrics (Current vs. Target)**
-- Workflows Automated
-- Dollars Saved
-- Dollars Earned
-
-**II. Delivery Metrics**
-- Time to Value (by phase)
-- Adoption Rate (by workflow)
-- Reliability (uptime, errors)
-
-**III. Maturity Metrics**
-- Client Self-Sufficiency
-- Workflow Scalability
-- Governance Effectiveness
-
-**IV. Pipeline Health**
-- Workflows by Phase (POV, POC, Pilot, Program, Partnership)
-- Phase Conversion Rates
-- Average Cycle Times
-- At-Risk Workflows
-
-**V. Key Updates**
-- Workflows Launched This Month
-- Major Milestones Achieved
-- Issues Requiring Attention
-- Next Month Preview
+| Template | Audience | Purpose | Sections | Typical Length | Format | Link |
+|----------|----------|---------|----------|----------------|--------|------|
+| Monthly Performance Dashboard | Product Practice + Working Group | Track metrics and progress | 5 sections | 1-2 pages | Spreadsheet | [Template Library](templates-tools.md) |
+| Quarterly Executive Report | Executive Leadership | Strategic review and performance | 5 sections | 5-10 pages | Document | [Template Library](templates-tools.md) |
+| Working Group Review | Cross-functional teams | Coordination and planning | 4 sections | 2-3 pages | Document | [Template Library](templates-tools.md) |
+| Annual Strategic Review | Executive + Board | Strategic planning and direction | 6 sections | 15-20 pages | Presentation | [Template Library](templates-tools.md) |
+| POV Readout | Client + IA leadership | Workshop findings and recommendations | 5 sections | 3-5 pages | Presentation | [Template Library](templates-tools.md) |
+| POC Review | Client + IA leadership | Go/No-Go decision | 5 sections | 5-8 pages | Presentation | [Template Library](templates-tools.md) |
+| Pilot Review | Client + IA leadership | Scale readiness assessment | 5 sections | 8-12 pages | Presentation | [Template Library](templates-tools.md) |
+| Program Handoff | Client operations + IA | Capability transfer | 5 sections | Workshop materials | Document set | [Template Library](templates-tools.md) |
 
 ---
 
-### Quarterly Executive Report
+### Template Outlines
 
-**Executive Summary** (1 page)
-- Quarter in Review: Key achievements and impact delivered
-- Strategic Progress: Roadmap execution and major milestones
-- Economic Impact: Total value created and sustained
-- Looking Ahead: Next quarter priorities
+#### Monthly Performance Dashboard
 
-**I. North Star Performance**
-- Workflows Automated: [Current] vs. [Target]
-- Economic Impact: $[Saved] + $[Earned] = $[Total]
-- Year-over-Year Growth
-- Trajectory to Annual Goals
+**Section Overview:**
+1. North Star Metrics (Current vs. Target)
+2. Delivery Metrics (Time to Value, Adoption, Reliability)
+3. Maturity Metrics (Self-Sufficiency, Scalability, Governance)
+4. Pipeline Health (Workflows by Phase, Conversion Rates, Cycle Times)
+5. Key Updates (Launches, Milestones, Issues, Preview)
 
-**II. Portfolio Overview**
-- Active Workflows by Phase
-- Notable Successes and Case Studies
-- Conversion Rates and Time to Value
-- Client Satisfaction and Retention
-
-**III. Strategic Initiatives**
-- Roadmap Progress
-- Investment Recommendations
-- Capability Development
-- Market Opportunities
-
-**IV. Lessons Learned & Improvements**
-- What Worked Well
-- Challenges Encountered
-- Process Improvements Implemented
-- Knowledge Captured
-
-**V. Next Quarter Plan**
-- Priorities and Goals
-- Resource Requirements
-- Key Decisions Needed
-- Expected Outcomes
+[Download Template](templates-tools.md)
 
 ---
 
-### Working Group Review
+#### Quarterly Executive Report
 
-**I. Cross-Functional Coordination**
-- Account Team: Client health, expansion opportunities
-- Delivery Team: Execution updates, resource needs
-- Sales Team: Pipeline, new opportunities, enablement needs
-- Product Team: Workflow development, lessons learned
-- Platform Team: Infrastructure, tooling, technical debt
+**Section Overview:**
+1. Executive Summary (1 page)
+2. North Star Performance (Metrics vs. Targets, YoY Growth)
+3. Portfolio Overview (Active Workflows, Successes, Client Satisfaction)
+4. Strategic Initiatives (Roadmap Progress, Investments, Capabilities)
+5. Next Quarter Plan (Priorities, Resources, Key Decisions)
 
-**II. Process & Playbook Updates**
-- What We Learned This Quarter
-- Process Improvements Needed
-- Playbook Updates or New Patterns
-- Tools and Templates
-
-**III. Upcoming Opportunities**
-- New POVs Scheduled
-- POCs Starting Next Quarter
-- Pilots Ready for Launch
-- Programs Scaling
-
-**IV. Action Items & Owners**
-- Decisions Made
-- Next Steps
-- Accountability
+[Download Template](templates-tools.md)
 
 ---
 
-### Annual Strategic Review
+#### Working Group Review
 
-**Executive Summary** (1-2 pages)
-- Year in Review: Major achievements and milestones
-- North Star Performance: Progress against annual goals
-- Market Position: Competitive landscape and differentiation
-- Strategic Direction: Vision for next 3 years
+**Section Overview:**
+1. Cross-Functional Coordination (Account, Delivery, Sales, Product, Platform updates)
+2. Process & Playbook Updates (Learnings, Improvements, New Patterns)
+3. Upcoming Opportunities (POVs, POCs, Pilots, Programs)
+4. Action Items & Owners (Decisions, Next Steps, Accountability)
 
-**I. Annual Performance**
-- Workflows Automated: [Total] (vs. target of [X])
-- Economic Impact: $[Total] saved + $[Total] earned
-- Client Portfolio: Active clients, retention rate, expansion
-- Team Growth: Headcount, capabilities added, productivity gains
-
-**II. Portfolio Analysis**
-- Workflow Performance by Phase
-- Top Performing Workflows (economic impact)
-- Lessons Learned from Successes and Failures
-- Client Success Stories and Case Studies
-
-**III. Market & Competitive Position**
-- Market Trends and Opportunities
-- Competitive Landscape Analysis
-- Our Differentiation and Moats
-- Client Feedback and Market Validation
-
-**IV. Strategic Direction**
-- 3-Year Vision and Objectives
-- Strategic Priorities for Next Year
-- Capability Building Roadmap
-- Investment Strategy and Resource Allocation
-
-**V. Multi-Year Roadmap**
-- Year 1 Priorities and Targets
-- Year 2-3 Strategic Initiatives
-- Platform and Infrastructure Evolution
-- Market Expansion Plans
-
-**VI. Investment Requirements**
-- Budget and Resource Needs
-- Expected ROI and Payback Period
-- Risk Assessment and Mitigation
-- Success Metrics and Milestones
+[Download Template](templates-tools.md)
 
 ---
 
-### POV Readout
+#### Annual Strategic Review
 
-**I. Workshop Summary**
-- Participants and Context
-- Strategic Priorities Reviewed
-- Value Streams Mapped
-- Workflows Identified
+**Section Overview:**
+1. Executive Summary (Year in Review, North Star Performance, Market Position, Strategic Direction)
+2. Annual Performance (Workflows, Economic Impact, Client Portfolio, Team Growth)
+3. Portfolio Analysis (Performance by Phase, Top Workflows, Lessons Learned)
+4. Market & Competitive Position (Trends, Landscape, Differentiation)
+5. Strategic Direction (3-Year Vision, Priorities, Capability Roadmap)
+6. Multi-Year Roadmap & Investment Requirements
 
-**II. AI Readiness Assessment**
-- Current State Maturity Scores
-- Strengths and Opportunities
-- Readiness Heat Map
-
-**III. Prioritized Opportunities**
-- Opportunity 1: [Name, Impact, Feasibility]
-- Opportunity 2: [Name, Impact, Feasibility]
-- Opportunity 3: [Name, Impact, Feasibility]
-
-**IV. Recommended POCs**
-- Selected Workflows (1-3)
-- Success Metrics and Go/No-Go Criteria
-- Economic Impact Hypothesis
-- Resource Requirements
-
-**V. Next Steps**
-- SOW Review and Approval
-- POC Kickoff Timeline
-- Data Access and Stakeholder Confirmation
+[Download Template](templates-tools.md)
 
 ---
 
-### POC Review
+#### POV Readout
 
-**I. POC Objectives Recap**
-- Workflow Description
-- Success Metrics Defined
-- Technical Approach
+**Section Overview:**
+1. Workshop Summary (Participants, Strategic Priorities, Value Streams, Workflows Identified)
+2. AI Readiness Assessment (Maturity Scores, Strengths, Opportunities)
+3. Prioritized Opportunities (Top 1-3 with Impact × Feasibility)
+4. Recommended POCs (Selected Workflows, Success Metrics, Economic Hypothesis)
+5. Next Steps (SOW Review, Kickoff Timeline, Data Access)
 
-**II. Prototype Demonstration**
-- Live Demo of Core Functionality
-- Human-Agent Collaboration Model
-- Governance Framework
-
-**III. Success Metrics Review**
-| Metric | Target | Achieved | Status |
-|--------|--------|----------|--------|
-| [Metric 1] | [Target] | [Result] | ✓/✗ |
-| [Metric 2] | [Target] | [Result] | ✓/✗ |
-
-**IV. Lessons Learned**
-- What Worked Well
-- Challenges Encountered
-- Refinements for Pilot
-
-**V. Pilot Recommendation**
-- Go/No-Go Decision
-- Pilot Scope and Timeline
-- Success Criteria
-- Investment Required
+[Download Template](templates-tools.md)
 
 ---
 
-### Pilot Review
+#### POC Review
 
-**I. Pilot Overview**
-- Workflow and Objectives
-- Pilot Duration and Participants
-- Success Metrics
+**Section Overview:**
+1. POC Objectives Recap (Workflow Description, Success Metrics, Technical Approach)
+2. Prototype Demonstration (Core Functionality, Human-Agent Model, Governance)
+3. Success Metrics Review (Targets vs. Achieved)
+4. Lessons Learned (What Worked, Challenges, Refinements)
+5. Pilot Recommendation (Go/No-Go, Scope, Timeline, Investment)
 
-**II. Economic Impact Verification**
-- Baseline Metrics
-- Current Performance
-- Verified Impact: $[Amount] annually
-- Calculation Methodology
-- Client Validation
-
-**III. User Adoption & Experience**
-- Adoption Rate: [X%]
-- User Feedback Summary
-- Support Tickets and Issues
-- Training Effectiveness
-
-**IV. Operational Readiness**
-- Reliability and Uptime
-- Governance Operating Effectively
-- Client Team Capability Assessment
-
-**V. Program Recommendation**
-- Go/No-Go Decision
-- Scale Plan (users, use cases)
-- Capability Transfer Plan
-- Investment and Timeline
+[Download Template](templates-tools.md)
 
 ---
 
-### Program Handoff
+#### Pilot Review
 
-**I. Workflow Documentation**
-- Complete Process Maps
-- Standard Operating Procedures
-- Governance Framework
-- Troubleshooting Guide
+**Section Overview:**
+1. Pilot Overview (Workflow, Objectives, Duration, Participants)
+2. Economic Impact Verification (Baseline, Current Performance, Verified Impact, Methodology)
+3. User Adoption & Experience (Adoption Rate, Feedback, Support Tickets)
+4. Operational Readiness (Reliability, Governance, Client Capability)
+5. Program Recommendation (Go/No-Go, Scale Plan, Transfer Plan, Investment)
 
-**II. Training Delivery**
-- Operator Training (hands-on)
-- Administrator Training
-- Support and Escalation Procedures
-- Continuous Improvement Process
+[Download Template](templates-tools.md)
 
-**III. Technical Handoff**
-- System Access and Credentials
-- Monitoring and Alerting
-- Maintenance Schedule
-- Integration Points
+---
 
-**IV. Performance Baseline**
-- Current Metrics and Targets
-- Reporting Cadence
-- Success Measures
-- Improvement Opportunities
+#### Program Handoff
 
-**V. Transition Plan**
-- Support Transition Schedule
-- Client Ownership Milestones
-- IA Off-Ramp Timeline
-- Partnership Opportunities
+**Section Overview:**
+1. Workflow Documentation (Process Maps, SOPs, Governance, Troubleshooting)
+2. Training Delivery (Operator, Administrator, Support & Escalation)
+3. Technical Handoff (Access, Monitoring, Maintenance, Integration Points)
+4. Performance Baseline (Current Metrics, Targets, Reporting Cadence)
+5. Transition Plan (Support Schedule, Ownership Milestones, Off-Ramp Timeline)
+
+[Download Template](templates-tools.md)
 
 ---
 

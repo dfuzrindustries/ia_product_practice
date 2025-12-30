@@ -10,74 +10,24 @@ Standard reporting rhythms and templates for different audiences. This ensures c
 
 ## Reporting Calendar
 
-### Weekly
-
-**Product Practice Team Standup**
-- **Audience:** Product Practice team members
-- **Format:** 30-minute sync
-- **Content:** Active workflow updates, blockers, upcoming milestones
-- **Owner:** Product Practice Lead
-
----
-
-### Monthly
-
-**Product Practice Performance Review**
-- **Audience:** Product Practice team + Product Working Group
-- **Format:** 60-minute meeting + dashboard review
-- **Content:** Scorecard metrics, workflow progress, pipeline health, issues requiring attention
-- **Owner:** Product Practice Lead
-- **Template:** [Monthly Performance Dashboard](#monthly-performance-dashboard)
+| Cadence | Description | Audience | Format | Content | Owner | Template |
+|---------|-------------|----------|--------|---------|-------|----------|
+| **Weekly** | Product Practice Team Standup | Product Practice team members | 30-minute sync | Active workflow updates, blockers, upcoming milestones | Product Practice Lead | — |
+| **Monthly** | Product Practice Performance Review | Product Practice team + Product Working Group | 60-minute meeting + dashboard review | Scorecard metrics, workflow progress, pipeline health, issues requiring attention | Product Practice Lead | [Monthly Performance Dashboard](#monthly-performance-dashboard) |
+| **Quarterly** | Executive Business Review | Executive Leadership Team | 90-minute presentation + discussion | North Star metrics, strategic progress, roadmap updates, investment recommendations | Product Practice Lead + Executive Sponsor | [Quarterly Executive Report](#quarterly-executive-report) |
+| **Quarterly** | Product Working Group Review | Product Working Group (Account, Delivery, Sales, Product, Platform) | 60-minute working session | Cross-functional coordination, lessons learned, process improvements, upcoming opportunities | Product Practice Lead | [Working Group Review](#working-group-review) |
+| **Annual** | Product Practice Strategic Review | Executive Leadership Team + Board (as applicable) | Half-day strategic session | Annual performance, market position, strategic direction, multi-year roadmap, investment strategy | Product Practice Lead + CEO | [Annual Strategic Review](#annual-strategic-review) |
 
 ---
 
-### Quarterly
+### Phase-Based Reporting
 
-**Executive Business Review**
-- **Audience:** Executive Leadership Team
-- **Format:** 90-minute presentation + discussion
-- **Content:** North Star metrics, strategic progress, roadmap updates, investment recommendations
-- **Owner:** Product Practice Lead + Executive Sponsor
-- **Template:** [Quarterly Executive Report](#quarterly-executive-report)
-
-**Product Working Group Review**
-- **Audience:** Product Working Group (Account, Delivery, Sales, Product, Platform)
-- **Format:** 60-minute working session
-- **Content:** Cross-functional coordination, lessons learned, process improvements, upcoming opportunities
-- **Owner:** Product Practice Lead
-- **Template:** [Working Group Review](#working-group-review)
-
----
-
-### Phase-Based
-
-**POV Readout**
-- **Audience:** Client executive sponsor + IA leadership
-- **Format:** 30-minute presentation
-- **Content:** Day 1 Workshop findings, prioritized opportunities, SOW for POC
-- **Timing:** Within 48 hours of Day 1 Workshop
-- **Template:** [POV Readout](#pov-readout)
-
-**POC Review & Go/No-Go**
-- **Audience:** Client executive sponsor + IA leadership
-- **Format:** 60-minute demo + discussion
-- **Content:** Prototype demonstration, technical validation, success metrics review, Pilot recommendation
-- **Timing:** End of 30-day POC
-- **Template:** [POC Review](#poc-review)
-
-**Pilot Review & Go/No-Go**
-- **Audience:** Client executive sponsor + IA leadership
-- **Format:** 90-minute presentation
-- **Content:** Economic impact verification, user adoption metrics, readiness for scale, Program SOW
-- **Timing:** End of Pilot phase
-- **Template:** [Pilot Review](#pilot-review)
-
-**Program Handoff**
-- **Audience:** Client operational team + IA delivery team
-- **Format:** Half-day session
-- **Content:** Complete capability transfer, documentation review, operational training, support transition
-- **Timing:** Program launch
-- **Template:** [Program Handoff](#program-handoff)
+| Event | Audience | Format | Content | Timing | Template |
+|-------|----------|--------|---------|--------|----------|
+| **POV Readout** | Client executive sponsor + IA leadership | 30-minute presentation | Day 1 Workshop findings, prioritized opportunities, SOW for POC | Within 48 hours of Day 1 Workshop | [POV Readout](#pov-readout) |
+| **POC Review & Go/No-Go** | Client executive sponsor + IA leadership | 60-minute demo + discussion | Prototype demonstration, technical validation, success metrics review, Pilot recommendation | End of 30-day POC | [POC Review](#poc-review) |
+| **Pilot Review & Go/No-Go** | Client executive sponsor + IA leadership | 90-minute presentation | Economic impact verification, user adoption metrics, readiness for scale, Program SOW | End of Pilot phase | [Pilot Review](#pilot-review) |
+| **Program Handoff** | Client operational team + IA delivery team | Half-day session | Complete capability transfer, documentation review, operational training, support transition | Program launch | [Program Handoff](#program-handoff) |
 
 ---
 
@@ -179,6 +129,52 @@ Standard reporting rhythms and templates for different audiences. This ensures c
 - Decisions Made
 - Next Steps
 - Accountability
+
+---
+
+### Annual Strategic Review
+
+**Executive Summary** (1-2 pages)
+- Year in Review: Major achievements and milestones
+- North Star Performance: Progress against annual goals
+- Market Position: Competitive landscape and differentiation
+- Strategic Direction: Vision for next 3 years
+
+**I. Annual Performance**
+- Workflows Automated: [Total] (vs. target of [X])
+- Economic Impact: $[Total] saved + $[Total] earned
+- Client Portfolio: Active clients, retention rate, expansion
+- Team Growth: Headcount, capabilities added, productivity gains
+
+**II. Portfolio Analysis**
+- Workflow Performance by Phase
+- Top Performing Workflows (economic impact)
+- Lessons Learned from Successes and Failures
+- Client Success Stories and Case Studies
+
+**III. Market & Competitive Position**
+- Market Trends and Opportunities
+- Competitive Landscape Analysis
+- Our Differentiation and Moats
+- Client Feedback and Market Validation
+
+**IV. Strategic Direction**
+- 3-Year Vision and Objectives
+- Strategic Priorities for Next Year
+- Capability Building Roadmap
+- Investment Strategy and Resource Allocation
+
+**V. Multi-Year Roadmap**
+- Year 1 Priorities and Targets
+- Year 2-3 Strategic Initiatives
+- Platform and Infrastructure Evolution
+- Market Expansion Plans
+
+**VI. Investment Requirements**
+- Budget and Resource Needs
+- Expected ROI and Payback Period
+- Risk Assessment and Mitigation
+- Success Metrics and Milestones
 
 ---
 
